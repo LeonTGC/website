@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+#homeHeader {
+    color: orange;
+}
+#contactHeader {
+    color: rgb(137, 221, 150);
+}
+#aboutHeader {
+    color:hotpink
+}
