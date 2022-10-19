@@ -16,7 +16,7 @@ body {
     color:hotpink
 }
 #navContainer {
-    border: dotted 2px white;
+    /* border: dotted 2px white; */
     width: 100%;
     display: flex;
     justify-content: center;
